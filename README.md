@@ -16,5 +16,5 @@ MySQL: Database for storing employee records.
 VS Code: IDE used for development.
 
 
-![WhatsApp Image 2024-09-06 at 9 36 03 AM](https://github.com/user-attachments/assets/6bbdbfb4-25d0-46c0-bc44-dfe2f7ffa5ca)
+![WhatsApp Image 2024-09-06 at 9 41 57 AM](https://github.com/user-attachments/assets/5fd539a3-31ec-4cdc-aa4c-ab04d5eff648)
 ![WhatsApp Image 2024-09-06 at 9 36 05 AM](https://github.com/user-attachments/assets/2a2d5a9d-c352-4957-b639-6426ae5350f1)
