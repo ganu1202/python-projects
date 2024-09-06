@@ -1,5 +1,3 @@
-Employee Management System![WhatsApp Image 2024-09-06 at 9 36 03 AM](https://github.com/user-attachments/assets/fa47bd6f-b25f-4e4f-8f00-06c17697c039)
-
 This Employee Management System is a Python-based desktop application designed to manage employee data efficiently. It provides an interface for creating, viewing, updating, and deleting employee records, all while connecting to a MySQL database for persistent storage.
 
 Features
